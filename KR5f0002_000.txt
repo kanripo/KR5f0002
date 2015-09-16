@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:17:57.585153
+#+TITLE: 太上老君中經
+#+PROPERTY: DZID  DZ1168
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，27—142 二卷 太清部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
